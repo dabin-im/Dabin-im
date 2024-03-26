@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&fontColor=ffffff&height=180&section=header&text=Welcome👋%20I'm%20Suhyeon!&fontSize=30&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&fontColor=ffffff&height=180&section=header&text=Welcome👋%20I'm%20Dabin!&fontSize=30&animation=twinkling)
   
 ## Seize The Day!
 I love learning new tech skills related to trendy web development
@@ -12,8 +12,7 @@ During my leisure time, I like jogging or going to the GYM
 
 ## 📚TECH STACK📚
 #### My Primary Stack
-    <h2>Languages:</h2>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white" alt="SQL">
