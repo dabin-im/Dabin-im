@@ -25,22 +25,22 @@ During my leisure time, I like jogging or going to the GYM
     <img src="https://img.shields.io/badge/Visual_Basic-007396?style=flat&logo=visual-studio&logoColor=white" alt="Visual Basic">
 
 #### Tools
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" alt=".NET">
-    <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white" alt="Mocha">
-    <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white" alt="JUnit">
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio">
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-    <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle SQL">
-    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" alt=".NET">
+<img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white" alt="Mocha">
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white" alt="JUnit">
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle SQL">
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest">
 
 #### Frameworks/Libraries
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white" alt="React.js">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-    <img src="https://img.shields.io/badge/MUI-0081CB?style=flat&logo=material-ui&logoColor=white" alt="MUI">
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+    <img src="https://img.shields.io/badge/MUI-0081CB?style=flat&logo=material-ui&logoColor=white">
 
 #### My Primary Stack
 <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Lambda">
