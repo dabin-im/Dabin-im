@@ -4,6 +4,7 @@
   
 ## Seize The Day!
 I love learning new tech skills related to trendy web development
+<br />
 During my leisure time, I like jogging or going to the GYM
 <br />
 💻 I am currently majoring in Computer Science at UBC. 
