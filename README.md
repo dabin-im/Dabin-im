@@ -5,7 +5,7 @@
 ## Seize The Day!
 I love learning new tech skills related to trendy web development
 <br />
-During my leisure time, I like jogging or going to the GYM
+During my leisure time, I like working out 🏋🏻
 <br />
 💻 I am currently majoring in Computer Science at UBC. 
 <br />
@@ -39,9 +39,9 @@ During my leisure time, I like jogging or going to the GYM
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest">
 
 #### Frameworks/Libraries
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
-    <img src="https://img.shields.io/badge/MUI-0081CB?style=flat&logo=material-ui&logoColor=white">
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/MUI-0081CB?style=flat&logo=material-ui&logoColor=white">
 
 #### My Primary Stack
 <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Lambda">
