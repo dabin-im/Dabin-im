@@ -24,7 +24,7 @@ During my leisure time, I like jogging or going to the GYM
     <img src="https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/Visual_Basic-007396?style=flat&logo=visual-studio&logoColor=white" alt="Visual Basic">
 
-    <h2>Tools:</h2>
+#### Tools
     <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" alt=".NET">
     <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white" alt="Mocha">
     <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white" alt="JUnit">
@@ -37,16 +37,15 @@ During my leisure time, I like jogging or going to the GYM
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest">
 
-    <h2>Frameworks/Libraries:</h2>
+#### Frameworks/Libraries
     <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white" alt="React.js">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
     <img src="https://img.shields.io/badge/MUI-0081CB?style=flat&logo=material-ui&logoColor=white" alt="MUI">
 
-    <h2>Cloud Services:</h2>
-    <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Lambda">
-    <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=aws-amplify&logoColor=white" alt="AWS Amplify">
+#### My Primary Stack
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Lambda">
+<img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=aws-amplify&logoColor=white" alt="AWS Amplify">
 
-<br />
 
 #### Experienced
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
