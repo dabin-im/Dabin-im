@@ -1,15 +1,15 @@
 <div align="center">
     
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&fontColor=ffffff&height=180&section=header&text=Welcome👋%20I'm%20Dabin!&fontSize=30&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&fontColor=ffffff&height=180&section=header&text=Welcome👋%20I'm%20Dabin!&fontSize=30&animation=twinkling)
   
-## Seize The Day!
-I love learning new tech skills related to trendy web development
+## Better than yesterday
+💻 I love learning new tech skills related to trendy web development 💻
 <br />
 
 🏃🏻 I like jogging or going to work out. 🏋🏻
 <br />
 
-💻 I am currently majoring in Computer Science at UBC. 🧑🏻‍💻
+🧑🏻‍💻 I am currently majoring in Computer Science at UBC. 🧑🏻‍💻
 
 <br />
 <br />
