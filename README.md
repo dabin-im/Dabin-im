@@ -17,6 +17,14 @@
 
 <br/>
 
+## WHAT I LEARNED 
+<img src="https://img.shields.io/badge/Introduction_to_Software_Engineering-6C63FF?style=flat" alt="Introduction to Software Engineering">
+<img src="https://img.shields.io/badge/Introduction_to_Relational_Database-003B57?style=flat" alt="Relational Database">
+<img src="https://img.shields.io/badge/Applied_Machine_Learning-F7931E?style=flat" alt="Applied Machine Learning">
+<img src="https://img.shields.io/badge/Data_Structure-239120?style=flat" alt="Data Structure">
+<img src="https://img.shields.io/badge/Computer_Graphics-6A0DAD?style=flat" alt="Computer Graphics">
+<img src="https://img.shields.io/badge/Introduction_to_Computer_Systems-007396?style=flat" alt="Introduction to Computer Systems">
+
 ## TECHNICAL SKILLS  📚
 
 #### Language
