@@ -23,7 +23,7 @@
 #### My Primary Teck Stack
 <br />
 <br />
-###### SQL: SELECT Name FROM MyTechnicalSkills ORDER BY Proficiency DESC
+##### SQL: SELECT Name FROM MySkills ORDER BY Proficiency DESC
 <br />
 <br />
 
