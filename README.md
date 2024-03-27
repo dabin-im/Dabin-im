@@ -2,15 +2,11 @@
     
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&fontColor=ffffff&height=180&section=header&text=Welcome👋%20I'm%20Dabin!&fontSize=30&animation=twinkling)
   
-## Better than yesterday
 💻 I love learning new tech skills related to trendy web development 💻
 <br />
-
-🏃🏻 I like jogging or going to work out. 🏋🏻
-<br />
-
 🧑🏻‍💻 I am currently majoring in Computer Science at UBC. 🧑🏻‍💻
-
+<br />
+🏃🏻 I like jogging or going to work out. 🏋🏻
 <br />
 <br />
 
