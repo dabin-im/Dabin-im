@@ -8,6 +8,7 @@
 <br />
 <br />
 I love learning new tech skills related to trendy web development 💻 
+<br />
 I am majoring in Computer Science at UBC. 🧑🏻‍💻
 <br />
 <br />
