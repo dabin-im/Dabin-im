@@ -7,18 +7,32 @@
 
 </br>
 
-## ABOUT ME  👀
+## 👀  ABOUT ME  👀
 
 #### 💻  I Love Learning New Trendy Web Dev Skills!  💻 
 
-#### 🧑🏻‍💻 I Am Majoring in Computer Science at UBC. 🧑🏻‍💻
+#### 🧑🏻‍💻  I Am Majoring in Computer Science at UBC.  🧑🏻‍💻
 
-#### 🏃🏻 I Like Jogging or Going to Work Out 🏋🏻
+#### 🏃🏻  I Like Jogging or Going to Work Out  🏋🏻
 
 </br>
 
+## 📚 WHAT I LREANED 📚
+<img src="https://img.shields.io/badge/Introduction_to_Software_Engineering-6C63FF?style=flat" alt="Introduction to Software Engineering">
+</br>
+<img src="https://img.shields.io/badge/Relational_Database-003B57?style=flat" alt="Relational Database">
+</br>
+<img src="https://img.shields.io/badge/Applied_Machine_Learning-F7931E?style=flat" alt="Applied Machine Learning">
+</br>
+<img src="https://img.shields.io/badge/Data_Structure-239120?style=flat" alt="Data Structure">
+</br>
+<img src="https://img.shields.io/badge/Computer_Graphics-6A0DAD?style=flat" alt="Computer Graphics">
+</br>
+<img src="https://img.shields.io/badge/Introduction_to_Computer_Systems-007396?style=flat" alt="Introduction to Computer Systems">
+</br>
 
-## TECHNICAL SKILLS  📚
+
+## ⚡  TECHNICAL SKILLS  ⚡
 
 #### Language
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
