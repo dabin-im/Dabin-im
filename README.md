@@ -6,7 +6,7 @@
 <br/>
 
 
-## ABOUT ME 👀
+## ABOUT ME  👀
 
 #### 💻  I love learning new trendy web development skills!  💻 
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-## TECHNICAL SKILLS 📚
+## TECHNICAL SKILLS  📚
 
 #### Language
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
