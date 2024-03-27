@@ -20,17 +20,17 @@
 ## 📚 WHAT I LREANED 📚
 <img src="https://img.shields.io/badge/Introduction_to_Software_Engineering-6C63FF?style=flat" alt="Introduction to Software Engineering">
 </br>
-<img src="https://img.shields.io/badge/Relational_Database-003B57?style=flat" alt="Relational Database">
+<img src="https://img.shields.io/badge/Introduction_to_Computer_Systems-007396?style=flat" alt="Introduction to Computer Systems">
 </br>
 <img src="https://img.shields.io/badge/Applied_Machine_Learning-F7931E?style=flat" alt="Applied Machine Learning">
 </br>
-<img src="https://img.shields.io/badge/Data_Structure-239120?style=flat" alt="Data Structure">
+<img src="https://img.shields.io/badge/Relational_Database-003B57?style=flat" alt="Relational Database">
 </br>
 <img src="https://img.shields.io/badge/Computer_Graphics-6A0DAD?style=flat" alt="Computer Graphics">
 </br>
-<img src="https://img.shields.io/badge/Introduction_to_Computer_Systems-007396?style=flat" alt="Introduction to Computer Systems">
-
+<img src="https://img.shields.io/badge/Data_Structure-239120?style=flat" alt="Data Structure">
 </br>
+
 </br>
 
 ## ⚡  TECHNICAL SKILLS  ⚡
