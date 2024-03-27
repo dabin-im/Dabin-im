@@ -10,7 +10,8 @@
 🧑🏻‍💻 I am majoring in Computer Science at UBC. 🧑🏻‍💻
 <br />
 <br />
-
+<br />
+<br />
 
 ### 📚 PRIMARY TECHNICAL SKILLS 📚
 
