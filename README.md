@@ -5,14 +5,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dabin--im/)](https://www.linkedin.com/in/dabin--im/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ldb1216@gmail.com)](mailto:ldb1216@gmail.com)
 
-I love learning new tech skills related to trendy web development 💻 
+💻  I love learning new tech skills related to trendy web development 💻 
 <br />
-I am majoring in Computer Science at UBC. 🧑🏻‍💻
+🧑🏻‍💻 I am majoring in Computer Science at UBC. 🧑🏻‍💻
 <br />
 <br />
 
 
-### 📚💻 TECHNICAL SKILLS 📚💻
+### 📚 TECHNICAL SKILLS 📚
 
 ###### Language
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
@@ -21,22 +21,12 @@ I am majoring in Computer Science at UBC. 🧑🏻‍💻
 <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white" alt="CSS">
-
 
 ###### TOOL
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle SQL">
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
-<img src="https://img.shields.io/badge/Visual_Basic-007396?style=flat&logo=visual-studio&logoColor=white" alt="Visual Basic">
-   
 
 ###### Framework/Libraries
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white" alt="React.js">
@@ -46,17 +36,24 @@ I am majoring in Computer Science at UBC. 🧑🏻‍💻
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white" alt="Mocha">
 <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white" alt="JUnit">
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" alt=".NET">
-
-
 
 ###### Cloud Services
 <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Lambda">
 <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=aws-amplify&logoColor=white" alt="AWS Amplify">
 
+###### Experience
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" alt=".NET">
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle SQL">
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
+<img src="https://img.shields.io/badge/Visual_Basic-007396?style=flat&logo=visual-studio&logoColor=white" alt="Visual Basic">
+
 <br />
-[(https://github-readme-stats.vercel.app/api?username=dabin-im)](https://github.com/anuraghazra/github-readme-stats)
-<br />
+
 
 
 
