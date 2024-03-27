@@ -5,15 +5,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dabin--im/)](https://www.linkedin.com/in/dabin--im/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ldb1216@gmail.com)](mailto:ldb1216@gmail.com)
 
-💻  I love learning new tech skills related to trendy web development 💻 
+💻  I love learning new trendy web development skills!  💻 
 <br />
 🧑🏻‍💻 I am majoring in Computer Science at UBC. 🧑🏻‍💻
 <br />
-<br />
+🏃🏻 I like Jogging or going to work out 🏋🏻
 <br />
 <br />
 
-#### 📚 PRIMARY SKILLS 📚
+#### 📚 Technical Skills 📚
 
 ###### Language
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
@@ -46,7 +46,9 @@
 
 
 <br />
-
+## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=dabin-im&show_icons=true">
+</div>
 
 
 
