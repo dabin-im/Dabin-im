@@ -17,7 +17,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 #### 📚 TECHNICAL SKILLS 📚
 
