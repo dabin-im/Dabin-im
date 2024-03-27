@@ -5,11 +5,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dabin--im/)](https://www.linkedin.com/in/dabin--im/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ldb1216@gmail.com)](mailto:ldb1216@gmail.com)
 
-💻  I love learning new trendy web development skills!  💻 
+- 💻  I love learning new trendy web development skills!  💻 
 <br />
-🧑🏻‍💻 I am majoring in Computer Science at UBC. 🧑🏻‍💻
+- 🧑🏻‍💻 I am majoring in Computer Science at UBC. 🧑🏻‍💻
 <br />
-🏃🏻 I like Jogging or going to work out 🏋🏻
+- 🏃🏻 I like Jogging or going to work out 🏋🏻
 <br />
 <br />
 
@@ -45,10 +45,7 @@
 
 
 
-<br />
-## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=dabin-im&show_icons=true">
-</div>
+
 
 
 
@@ -58,6 +55,10 @@
 
 <!--
 **dabin-im/Dabin-im** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=dabin-im&show_icons=true">
+</div>
 
 Here are some ideas to get you started:
 
