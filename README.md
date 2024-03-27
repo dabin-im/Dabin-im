@@ -8,6 +8,8 @@
 <br />
 🏃🏻 I like jogging or going to work out. 🏋🏻
 <br />
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dabin--im/)](https://www.linkedin.com/in/dabin--im/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ldb1216@gmail.com)](mailto:ldb1216@gmail.com)
 <br />
 
 ## 📚💻 TECHNICAL SKILLS 📚💻
@@ -54,11 +56,9 @@
 <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=aws-amplify&logoColor=white" alt="AWS Amplify">
 
 <br />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dabin-im)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=dabin-im&show_icons=true">
-</div>
 
 
 
@@ -87,10 +87,7 @@ Here are some ideas to get you started:
 
 
 	
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dabin--im/)](https://www.linkedin.com/in/dabin--im/)
-	
-	
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ldb1216@gmail.com)](mailto:snugyun01@gmail.com)
+
 
  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dabin-im)](https://github.com/anuraghazra/github-readme-stats)
+
