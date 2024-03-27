@@ -40,6 +40,8 @@
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest">
 <img src="https://img.shields.io/badge/MUI-0081CB?style=flat&logo=material-ui&logoColor=white" alt="MUI">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/TanStack-000000?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtklEQVQ4jY3TwUoDQRSG4ddLXvYSWgDbbDBK0jNJEBTaUsMJzAbcTJMC8BNJ8DI0gnfBcCCQyEpFKksyXHvP+1BvOb3m9x/v82SQpAHAqOMyoIuV6JbgCsETVoArAABr4BysgJt5DRkAdJ1A5BcAGj0QpABbUjDV6AAXZiVddcAjUOuDdJB7gMVBmK4vAbmjJ0Z1yOxk3IuQMAAAAASUVORK5CYII=" alt="TanStack">
+
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white" alt="Mocha">
 <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white" alt="JUnit">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white">
