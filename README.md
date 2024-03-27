@@ -11,9 +11,8 @@
 
 #### 🏃🏻 I like Jogging or going to work out 🏋🏻
 
-<br/>
 
-#### 📚 TECHNICAL SKILLS 📚
+## 📚 TECHNICAL SKILLS 📚
 
 ##### Language
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
