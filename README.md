@@ -1,6 +1,6 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&fontColor=ffffff&height=180&section=header&text=Welcome👋%20I'm%20Dabin!&fontSize=30&animation=twinkling)
+    
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&fontColor=ffffff&height=180&section=header&text=Welcome👋%20I'm%20Dabin!&fontSize=30&animation=twinkling)
   
 ## Seize The Day!
 I love learning new tech skills related to trendy web development
@@ -15,9 +15,9 @@ I love learning new tech skills related to trendy web development
 <br />
 
 ## 📚💻 TECHNICAL SKILLS 📚💻
-#### My Primary Teck Stack
+#### My Primary Teck Stack - ORDER BY Proficiency DESC
 
-###### Language (**ORDER BY Proficiency DESC**) 
+###### Language
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
@@ -31,7 +31,7 @@ I love learning new tech skills related to trendy web development
 <img src="https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white" alt="CSS">
 
 
-###### TOOL (ORDER BY DateUsed DESC) 
+###### TOOL
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
@@ -41,7 +41,7 @@ I love learning new tech skills related to trendy web development
 <img src="https://img.shields.io/badge/Visual_Basic-007396?style=flat&logo=visual-studio&logoColor=white" alt="Visual Basic">
    
 
-###### Framework/Libraries (ORDER BY DateUsed DESC)
+###### Framework/Libraries
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white" alt="React.js">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest">
