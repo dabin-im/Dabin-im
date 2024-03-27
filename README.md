@@ -7,13 +7,8 @@
 
 <br />
 <br />
-I love learning new tech skills related to trendy web development 💻
-<br />
-<br />
-I am currently majoring in Computer Science at UBC. 🧑🏻‍💻
-<br />
-<br />
-I like jogging 🏃🏻  or going to work out. 🏋🏻
+I love learning new tech skills related to trendy web development 💻 
+I am majoring in Computer Science at UBC. 🧑🏻‍💻
 <br />
 <br />
 
