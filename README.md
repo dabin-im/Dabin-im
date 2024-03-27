@@ -5,9 +5,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dabin--im/)](https://www.linkedin.com/in/dabin--im/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ldb1216@gmail.com)](mailto:ldb1216@gmail.com)
 
-- 💻  I love learning new trendy web development skills!  💻 
-- 🧑🏻‍💻 I am majoring in Computer Science at UBC. 🧑🏻‍💻
-- 🏃🏻 I like Jogging or going to work out 🏋🏻
+💻  I love learning new trendy web development skills!  💻 
+<br />
+<br />
+🧑🏻‍💻 I am majoring in Computer Science at UBC. 🧑🏻‍💻
+<br />
+<br />
+🏃🏻 I like Jogging or going to work out 🏋🏻
 <br />
 <br />
 
