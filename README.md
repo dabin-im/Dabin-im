@@ -15,7 +15,6 @@
 ##### 🏃🏻 I like Jogging or going to work out 🏋🏻
 
 <br/>
-<br/>
 
 #### 📚 TECHNICAL SKILLS 📚
 
