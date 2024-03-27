@@ -16,7 +16,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
+
 #### 📚 Technical Skills 📚
 
 ###### Language
