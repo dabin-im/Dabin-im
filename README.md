@@ -12,7 +12,7 @@
 <br />
 
 
-### 📚 TECHNICAL SKILLS 📚
+### 📚 PRIMARY TECHNICAL SKILLS 📚
 
 ###### Language
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
@@ -42,16 +42,7 @@
 <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Lambda">
 <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=aws-amplify&logoColor=white" alt="AWS Amplify">
 
-###### Experience
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white" alt="CSS">
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" alt=".NET">
-<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle SQL">
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
-<img src="https://img.shields.io/badge/Visual_Basic-007396?style=flat&logo=visual-studio&logoColor=white" alt="Visual Basic">
+
 
 <br />
 
