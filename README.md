@@ -5,13 +5,15 @@
 
 
 
-#### ABOUT ME [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dabin--im/)](https://www.linkedin.com/in/dabin--im/)
+#### ABOUT ME 
 
-##### 💻  I love learning new trendy web development skills!  💻 
+##### [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dabin--im/)](https://www.linkedin.com/in/dabin--im/)
 
-##### 🧑🏻‍💻 I am majoring in Computer Science at UBC. 🧑🏻‍💻
+###### 💻  I love learning new trendy web development skills!  💻 
 
-##### 🏃🏻 I like Jogging or going to work out 🏋🏻
+###### 🧑🏻‍💻 I am majoring in Computer Science at UBC. 🧑🏻‍💻
+
+###### 🏃🏻 I like Jogging or going to work out 🏋🏻
 
 <br/>
 
