@@ -42,6 +42,7 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white" alt="Mocha">
 <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white" alt="JUnit">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" alt=".NET">
 
 #### Cloud Services
 <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Lambda">
