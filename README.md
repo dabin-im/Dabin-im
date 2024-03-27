@@ -1,6 +1,8 @@
 <div align="center">
     
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&fontColor=ffffff&height=180&section=header&text=Welcome👋%20I'm%20Dabin!&fontSize=30&animation=twinkling)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dabin--im/)](https://www.linkedin.com/in/dabin--im/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ldb1216@gmail.com)](mailto:ldb1216@gmail.com)
 
 💻 I love learning new tech skills related to trendy web development 💻
 <br />
@@ -11,11 +13,7 @@
 🏃🏻 I like jogging or going to work out. 🏋🏻
 <br />
 <br />
-#### Here are my contacts
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dabin--im/)](https://www.linkedin.com/in/dabin--im/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ldb1216@gmail.com)](mailto:ldb1216@gmail.com)
-<br />
-<br />
+
 
 ## 📚💻 TECHNICAL SKILLS 📚💻
 #### My Primary Teck Stack
