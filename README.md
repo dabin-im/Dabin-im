@@ -11,9 +11,7 @@
 🏃🏻 I like jogging or going to work out. 🏋🏻
 <br />
 <br />
-<br />
-
-#### Contacts
+#### Here are my contacts
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dabin--im/)](https://www.linkedin.com/in/dabin--im/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ldb1216@gmail.com)](mailto:ldb1216@gmail.com)
 <br />
@@ -22,7 +20,6 @@
 ## 📚💻 TECHNICAL SKILLS 📚💻
 #### My Primary Teck Stack
 ###### SQL: SELECT Name FROM MySkills ORDER BY Proficiency DESC
-
 
 ###### Language
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
