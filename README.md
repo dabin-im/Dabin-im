@@ -13,8 +13,7 @@ I am majoring in Computer Science at UBC. 🧑🏻‍💻
 
 
 ### 📚💻 TECHNICAL SKILLS 📚💻
-#### SQL: SELECT Name FROM MySkills ORDER BY Proficiency DESC
- 
+
 ###### Language
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
