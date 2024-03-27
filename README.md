@@ -3,6 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&fontColor=ffffff&height=180&section=header&text=Welcome👋%20I'm%20Dabin!&fontSize=30&animation=twinkling)
 
 #### [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dabin--im/)](https://www.linkedin.com/in/dabin--im/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ldb1216@gmail.com)
+
 <br/>
 
 
