@@ -45,8 +45,10 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js">
-<img src="https://img.shields.io/badge/TanStack-000000?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtklEQVQ4jY3TwUoDQRSG4ddLXvYSWgDbbDBK0jNJEBTaUsMJzAbcTJMC8BNJ8DI0gnfBcCCQyEpFKksyXHvP+1BvOb3m9x/v82SQpAHAqOMyoIuV6JbgCsETVoArAABr4BysgJt5DRkAdJ1A5BcAGj0QpABbUjDV6AAXZiVddcAjUOuDdJB7gMVBmK4vAbmjJ0Z1yOxk3IuQMAAAAASUVORK5CYII=" alt="TanStack">
+
 </br>
+
+<img src="https://img.shields.io/badge/TanStack-000000?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtklEQVQ4jY3TwUoDQRSG4ddLXvYSWgDbbDBK0jNJEBTaUsMJzAbcTJMC8BNJ8DI0gnfBcCCQyEpFKksyXHvP+1BvOb3m9x/v82SQpAHAqOMyoIuV6JbgCsETVoArAABr4BysgJt5DRkAdJ1A5BcAGj0QpABbUjDV6AAXZiVddcAjUOuDdJB7gMVBmK4vAbmjJ0Z1yOxk3IuQMAAAAASUVORK5CYII=" alt="TanStack">
 <img src="https://img.shields.io/badge/shadcn/ui-0074D9?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAwklEQVQ4jY3RsUoDQRBE0d9QXcFB3sLdBb6L8l2LbRaahQrREnQHvcB8A34A4AK8A3vAdwAMG4MZggRsIMV4gH8VXaMTZI7cKd6Bz7L/7mtebpXUqWagqGjZtV9ArXAwlQKsAC3TvsROQ9sAqAL0ntABoN8l+MApgCfV70hj+oBGgFEYgEOluCDpBkmNZT3H/JwATX4BDghKsZtN1tBnCMyujqyC8ADlsGVB6pL8NR0B5H0gCW5wbIN1Lg8AAAAASUVORK5CYII=" alt="shadcn/ui">
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" alt="Three.js">
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white" alt="Mocha">
