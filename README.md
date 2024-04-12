@@ -77,7 +77,7 @@
 
 
 <!--
-**dabin-im/Dabin-im** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dabin is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br />
 ## GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=dabin-im&show_icons=true">
