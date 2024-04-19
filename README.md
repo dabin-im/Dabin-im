@@ -9,7 +9,7 @@
 
 ## 👀  ABOUT ME  👀
 
-#### 💻  I Love Learning New Trendy Web Development Skills!  💻 
+#### 💻  I Love Learning New Trendy Web Dev Skills!  💻 
 
 #### 🧑🏻‍💻  I am Majoring in Computer Science at UBC.  🧑🏻‍💻
 
