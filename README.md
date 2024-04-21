@@ -11,7 +11,7 @@
 
 #### 💻  I Love Learning New Trendy Web Dev Skills!  💻 
 
-#### 🧑🏻‍💻  I am Majoring in Computer Science at UBC.  🧑🏻‍💻
+#### 🧑🏻‍💻  I am a Computer Science Student at UBC.  🧑🏻‍💻
 
 #### 🏃🏻  I Like Jogging or Going to Work Out  🏋🏻
 
