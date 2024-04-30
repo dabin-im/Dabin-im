@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Golang">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
 
 </br>
